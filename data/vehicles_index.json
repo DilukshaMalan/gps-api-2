@@ -1,0 +1,49 @@
+{
+  "vehicles": [
+    {
+      "vehicleId": "QR-001",
+      "file": "QR-001_trips.json",
+      "dataStart": "2026-10-10T06:47:00+05:30",
+      "dataEnd": "2026-10-23T18:11:20+05:30",
+      "tripCount": 40,
+      "pointCount": 8859,
+      "lastKnown": {
+        "timestamp": "2026-10-23T18:11:20+05:30",
+        "latitude": 7.066673,
+        "longitude": 79.893319,
+        "speedKmh": 0.0,
+        "engineOn": false
+      }
+    },
+    {
+      "vehicleId": "QR-002",
+      "file": "QR-002_trips.json",
+      "dataStart": "2026-10-10T07:10:00+05:30",
+      "dataEnd": "2026-10-23T18:04:40+05:30",
+      "tripCount": 45,
+      "pointCount": 13295,
+      "lastKnown": {
+        "timestamp": "2026-10-23T18:04:40+05:30",
+        "latitude": 7.212321,
+        "longitude": 79.844738,
+        "speedKmh": 13.4,
+        "engineOn": true
+      }
+    },
+    {
+      "vehicleId": "QR-003",
+      "file": "QR-003_trips.json",
+      "dataStart": "2026-10-10T07:02:00+05:30",
+      "dataEnd": "2026-10-23T18:12:10+05:30",
+      "tripCount": 45,
+      "pointCount": 16523,
+      "lastKnown": {
+        "timestamp": "2026-10-23T18:12:10+05:30",
+        "latitude": 6.9344,
+        "longitude": 79.85,
+        "speedKmh": 0.0,
+        "engineOn": false
+      }
+    }
+  ]
+}
